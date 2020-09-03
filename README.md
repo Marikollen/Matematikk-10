@@ -1,4 +1,4 @@
-# Matematikk-10
+# Kompetansemål etter 10. årssteget
 ## Tal og algebra
 ### Mål for opplæringen er at eleven skal kunne:
 -samanlikne og rekne om mellom heile tal, desimaltal, brøkar, prosent, promille og tal på standardform, uttrykkje slike tal på varierte måtar og vurdere i kva for situasjonar ulike representasjonar er formålstenlege
